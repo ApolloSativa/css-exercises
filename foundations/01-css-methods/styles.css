@@ -1,0 +1,10 @@
+
+
+.redHeading {
+    background: red;
+    color: white;
+    /* padding: 10px; */
+    font-size: 80px;
+    font-family: sans-serif;
+    text-align: center;
+}
